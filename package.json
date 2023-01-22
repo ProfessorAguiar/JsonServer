@@ -1,0 +1,26 @@
+{
+  "name": "jsonserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Prof. Vinicius Aguiar",
+  "license": "github.com/ProfessorAguiar",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProfessorAguiar/JsonServer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ProfessorAguiar/JsonServer/issues"
+  },
+  "homepage": "https://github.com/ProfessorAguiar/JsonServer#readme",
+  "description": ""
+}
